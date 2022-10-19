@@ -1,3 +1,11 @@
+<p align="center">
+    <img loading="lazy" style="border-radius: 0.25rem;" 
+      src="Banner github.png" alt="Logo" 
+      borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
+  </a>
+</p>
+<img src="octogato.png" width=25% align=right />
+
 # Buenas a todos! Soy Julio Luque Cabanillas 👋💻
 Soy **Estudiante de** [**Desarrollo de Aplicaciones Multiplataforma (DAM)**](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html) 📚💻 en el instituto [**I.E.S. LUIS VIVES**](https://www.iesluisvives.es/). 
 
